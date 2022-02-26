@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 ## test2
+
+[index2](https://btemnett.github.io/Ben-Emnett/index2)
+
 You can use the [editor on GitHub](https://github.com/btemnett/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
